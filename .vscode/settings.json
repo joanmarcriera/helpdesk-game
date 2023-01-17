@@ -1,5 +1,9 @@
 {
   "cSpell.words": [
-    "Pygame"
+    "collidepoint",
+    "KEYDOWN",
+    "MOUSEBUTTONDOWN",
+    "Pygame",
+    "rects"
   ]
 }
